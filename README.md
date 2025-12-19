@@ -39,6 +39,4 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 ## License
 This project is open-source and available under the MIT License.
 
-## Contact
-For any queries, reach out to [Your Email or GitHub Profile].
 
